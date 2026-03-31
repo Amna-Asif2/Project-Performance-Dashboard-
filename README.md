@@ -48,7 +48,7 @@ Dynamic filtering options:
 ---
 
 ## 🖼 Dashboard Preview
-
+https://github.com/Amna-Asif2/Project-Performance-Dashboard-/blob/main/dashboard.png
 
 ---
 
