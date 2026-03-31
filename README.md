@@ -60,6 +60,3 @@ Dynamic filtering options:
 - Detect delays and risks early
 - Improve planning and resource allocation
 
----
-
-## 📂 Project Structure
